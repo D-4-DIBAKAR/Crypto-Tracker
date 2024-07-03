@@ -29,3 +29,5 @@ Crypto-Tracker/
 
 ## Preview
 ![Crypto-Currency-Price-Tracker](preview.png)
+![image](https://github.com/D-4-DIBAKAR/Crypto-Tracker/assets/71878062/1b2a2f69-3856-4b50-86fa-7a1ef5046d6f)
+
