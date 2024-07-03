@@ -17,7 +17,6 @@ This project is a Cryptocurrency Price Tracker that fetches and displays real-ti
 - CSS
 - JavaScript
 - CoinRanking API
-
 ## Project Structure
 
 ```
@@ -26,8 +25,11 @@ Crypto-Tracker/
      ├── style.css
      └── script.js
 ```
-
 ## Preview
 ![Crypto-Currency-Price-Tracker](preview.png)
 ![image](https://github.com/D-4-DIBAKAR/Crypto-Tracker/assets/71878062/1b2a2f69-3856-4b50-86fa-7a1ef5046d6f)
+
+## Live Preview
+You can view the live preview of the Cryptocurrency Price Tracker project [here](https://daily-crypto-tracker.netlify.app).
+
 
